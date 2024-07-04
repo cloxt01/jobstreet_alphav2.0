@@ -1,0 +1,21 @@
+{
+    "app": {
+        "client_id": "qGPufUg5iBf1s57sfXl6gBdGF9JYInBI",
+        "session_id": "1da9922d-eb27-40a8-914b-c0d3c9adbb75",
+        "resume": "8fe69a88-0eed-4794-81b2-1b31c3d687ee"
+    },
+    "headers": {
+        "user_agent": "Mozilla\/5.0 (Linux; Android 10; K) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/126.0.0.0 Mobile Safari\/537.36",
+        "cookie": "JobseekerSessionId=1da9922d-eb27-40a8-914b-c0d3c9adbb75;JobseekerVisitorId=1da9922d-eb27-40a8-914b-c0d3c9adbb75;_gcl_au=1.1.1602647296.1719625791;_fbp=fb.2.1719625791312.846807153402909655;ajs_anonymous_id=6f0e82108a89a7b9b713597e4d7a8bc5;_legacy_auth0.qGPufUg5iBf1s57sfXl6gBdGF9JYInBI.is.authenticated=true;auth0.qGPufUg5iBf1s57sfXl6gBdGF9JYInBI.is.authenticated=true;_hjSessionUser_640499=eyJpZCI6IjBhZTExMTUxLTRjMDUtNWQ5NC05YjAzLTRlNTkwM2FlYzgzNiIsImNyZWF0ZWQiOjE3MTk2MjU3OTIxMjksImV4aXN0aW5nIjp0cnVlfQ==;last-known-sol-user-id=7e5cfcd95bd71abbc81eb867914929e53431e4eb8bdd54be9acea5e50f5711ce3346656b21e83378b2f18dae2323acff07973773d99712ba349ab29f8f822c7a86532142d29c92a220819dc489bbd97c590bfd1d76ce4280d8530ea49f6bc00d5d6d2f89182256d49600d74d811380b7c434c5a44d7f683ab283013639ef78c76353d123bae549efe84d2c04cd1bc80dee87989a88562fc3dc117d3b002873e3c8efc4c4b9e4c4;__cf_bm=bdBA5PxyciURa.LEaq5FfbJHJyc_OoZKXs9YCK_cRBU-1719669122-1.0.1.1-GRcMNgjD0AOTzr3l0wpFf91BZezG62qSkAtpDAI20unjiT2qnVqHTeLS_XQOhqUIaEsUtjY2FIyHSJDjPhcgzg;sol_id=c5891628-e959-47d4-9626-02b3cad10371;utag_main=v_id:019061af26f50011eb081b64868c0006f001c067005a9$_sn:6$_se:1%3Bexp-session$_ss:1%3Bexp-session$_st:1719670930146%3Bexp-session$ses_id:1719669130146%3Bexp-session$_pn:1%3Bexp-session$dc_visit:1$dc_event:91%3Bexp-session$dc_region:ap-east-1%3Bexp-session;da_cdt=visid_019061af26f50011eb081b64868c0006f001c067005a9-sesid_1719669130146;_dd_s=rum=0&expire=1719670026084"
+    },
+    "searchBy": {
+        "seekSelectAllPages": true,
+        "pageSize": 10,
+        "classification": "6281,1203,6251,1209",
+        "sortmode": "ListedDate"
+    },
+    "task" : {
+      "refreshJobs" : 15,
+      "refreshAuth": 3000
+    }
+}
