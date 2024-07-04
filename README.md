@@ -43,7 +43,7 @@ Untuk menginstal dan menjalankan `jobstreet_alphav2.0`, ikuti langkah-langkah be
     ```json
     {
         "pageSize": 5,
-        "sortmode": ListedDate,
+        "sortmode": "ListedDate",
         "refreshJobs": 30
     }
     ```
@@ -69,6 +69,9 @@ Untuk menginstal dan menjalankan `jobstreet_alphav2.0`, ikuti langkah-langkah be
     ```
 
 2. Akses aplikasi melalui browser di `http://localhost:8000`.
+
+## Output
+![Expected Results](https://drive.google.com/uc?export=view&id=1E8tTBcPxPaWs0FRbQMT66qjdFa414e-b)
 
 ## Lisensi
 
